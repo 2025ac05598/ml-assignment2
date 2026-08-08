@@ -1,0 +1,6 @@
+# For Local development only
+-r requirements.txt
+
+jupyter
+ipykernel
+seaborn
